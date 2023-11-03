@@ -1,0 +1,7 @@
+:root{
+   --primary-font:  'Inter', sans-serif;
+   --text:  #000000;
+}
+section{
+    padding-bottom: 64px ;
+}
